@@ -1,0 +1,56 @@
+body{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+#index{
+    padding: 10px;
+    padding-top: 60px;
+    background-color: #9E0C09;
+}
+#professores{
+    padding: 10px;
+   
+    padding-top: 60px;
+    background-color: #C2D197;
+    color: black;
+}
+#equipe{
+    padding: 10px;
+    padding-top: 60px;
+    background-color: #9CB16A;
+    color: black;
+}
+#niveis{
+    padding: 10px;
+    padding-top: 60px;
+    background-color: #649454;
+}
+#sobre{
+    padding: 10px;
+    padding-top: 60px;
+    background-color: #075057;
+}
+#contato{
+    padding-top: 60px;
+    padding: 10px;
+    background-color: #023850;   
+}
+.glyColor{
+    color: #023850;
+} 
+img{
+    border-radius: 10px;
+}
+.avatar{
+    width: 50px;
+    height: 50px;
+}
+h3{
+    margin-left: 15px;
+}
+.myHover{
+    transition: all .2s;
+}
+.myHover:hover{
+    background-color: #ddd;
+}
