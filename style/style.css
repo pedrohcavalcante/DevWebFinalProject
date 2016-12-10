@@ -1,38 +1,45 @@
 body{
-    color: white;
+    color: black;
     font-family: 'Roboto', sans-serif;
 }
 #index{
     padding: 10px;
     padding-top: 60px;
-    background-color: #9E0C09;
+    padding-bottom: 30px;
+    background-color: white;
 }
 #professores{
     padding: 10px;
     padding-top: 40px;
-    background-color: #C2D197;
+    padding-bottom: 30px;
+    background-color: lightcoral;
     color: black;
 }
 #equipe{
     padding: 10px;
     padding-top: 60px;
-    background-color: #9CB16A;
+    padding-bottom: 30px;
+    background-color: white;
     color: black;
 }
 #niveis{
     padding: 10px;
     padding-top: 60px;
-    background-color: #649454;
+    padding-bottom: 30px;
+    background-color: indianred;
+    
 }
 #sobre{
     padding: 10px;
     padding-top: 60px;
-    background-color: #075057;
+    padding-bottom: 30px;
+    background-color: white;
 }
 #contato{
     padding-top: 60px;
-    padding: 10px;
-    background-color: #023850;   
+    padding-bottom: 30px;
+    background-color: darkred;   
+    color: white;
 }
 .glyColor{
     color: #023850;
